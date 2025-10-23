@@ -1,0 +1,8 @@
+evaluate
+numpy
+wandb
+datasets
+huggingface-hub
+peft
+scikit-learn
+transformers
